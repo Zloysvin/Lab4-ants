@@ -1,0 +1,15 @@
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\bin\Debug\net6.0\Lab4-ants.exe
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\bin\Debug\net6.0\Lab4-ants.deps.json
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\bin\Debug\net6.0\Lab4-ants.runtimeconfig.json
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\bin\Debug\net6.0\Lab4-ants.dll
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\bin\Debug\net6.0\Lab4-ants.pdb
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.csproj.AssemblyReference.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.AssemblyInfoInputs.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.AssemblyInfo.cs
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.csproj.CoreCompileInputs.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.dll
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\refint\Lab4-ants.dll
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.pdb
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\Lab4-ants.genruntimeconfig.cache
+C:\Users\R2D2\Desktop\Docs\КПІ\Семестр 3\ПА\Lab3-BTree\Lab4-ants\Lab4-ants\obj\Debug\net6.0\ref\Lab4-ants.dll
